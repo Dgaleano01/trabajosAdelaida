@@ -1,0 +1,4 @@
+main{display: flex;justify-content: center;}
+.contenedor{display: flex;flex-wrap: wrap;padding: 30px;width: 80%;background-color: antiquewhite;justify-content: center;align-items: center;}
+.ficha{margin: 10px;display: flex;flex-direction: column;align-items: center;justify-content: center;text-align: center;width: 300px;height: 320px;background-color:white;}
+.ficha img{width: 150px;height: 100px;}
